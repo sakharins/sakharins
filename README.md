@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sakharins
-I’m bookish
-I’m currently learning korean but i never finish it
+- 👋 Hi, I’m @sakharins.
+I’m bookish.
+I’m currently learning korean but i never finish it.
 
 
 
